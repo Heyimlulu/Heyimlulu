@@ -16,12 +16,6 @@
 ![](https://img.shields.io/badge/Cloud%20Hosting-Microsoft%20Azure-69FF96?logo=Microsoft%20azure)
 ![](https://img.shields.io/badge/Cloud%20Hosting-Amazon%20Web%20Services-69FF96?logo=amazon%20aws)
 
-# 🔭 I’m currently working on [RacoonBot](https://github.com/Heyimlulu/RacoonBot), a multifunctional bot for discord
-
-# 😄 Pronouns: He/Him
-
-# ⚡ Fun fact: I love racoons
-
 <!--
 **Heyimlulu/Heyimlulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
