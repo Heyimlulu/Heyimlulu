@@ -8,8 +8,8 @@ I'm a student and apprentice as an IT software Developer
 
 # 🔭 I’m currently working on 
 
-- **RacoonBot**, a multifunction and fun bot using the discordjs API
-- **InsuranceProject**, an insurance management application using the Spring Boot Framework
+- **RacoonBot 2.0**, a multifunction and fun bot using the discordjs API
+- **InsuranceProject**, an automobile insurance management application using the Spring Boot Framework
 
 # 📫 How to reach me
 
