@@ -4,7 +4,7 @@
 
 # ⚡ About me
 
-I'm a student and apprentice as an IT software Developer 
+I'm a student and apprentice as an IT Software Developer 
 
 # 🔭 I’m currently working on 
 
