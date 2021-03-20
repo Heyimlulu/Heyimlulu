@@ -9,7 +9,7 @@ I'm a student and apprentice as an IT Software Developer
 # 🔭 I’m currently working on 
 
 - **RacoonBot 2.0**, a multifunction and fun bot using the discordjs API
-- **InsuranceProject**, an automobile insurance management application using the Spring Boot Framework
+- **InsuranceProject**, an automobile insurance management application using the Spring Boot, Maven and Bootstrap frameworks
 
 # 📫 How to reach me
 
