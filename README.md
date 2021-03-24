@@ -4,16 +4,12 @@
 
 # ⚡ About me
 
-I'm a student and apprentice as an IT Software Developer 
+I'm a student on IT Software Development
 
 # 🔭 I’m currently working on 
 
 - **RacoonBot 2.0**, a multifunction and fun bot using the discordjs API
 - **InsuranceProject**, an automobile insurance management application using the Spring Boot, Maven and Bootstrap frameworks
-
-# 📫 How to reach me
-
-You can add me on Discord `Yuki 🐺#0001`
 
 # 🔧 Technologies & Tools
 
