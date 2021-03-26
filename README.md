@@ -34,6 +34,7 @@ I'm a student as an IT-Specialist, Software Development **[Federal VET Diploma i
 ![](https://img.shields.io/badge/IDE-PhpStorm-69FF96?logo=phpstorm&color=purple)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-69FF96?logo=Visual%20Studio%20code&color=0078d7)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%202019-69FF96?logo=Visual%20Studio&color=blueviolet)
+![](https://img.shields.io/badge/IDE-Eclipse%20IDE%20for%20Enterprise%20Java%20Developers-69FF96?logo=eclipse%20ide&color=darkorange)
 
 ## Cloud Hosting
 
