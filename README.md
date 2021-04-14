@@ -8,8 +8,12 @@ I'm a student as an IT-Specialist, Software Development **[Federal VET Diploma i
 
 # 🔭 I’m currently working on 
 
-- **RacoonBot 2.0**, a multifunction and fun bot using the discordjs API
+- **Iro-Chan**, a multifunctional discord bot made using the DiscordJS API and Discord Akairo Framework
 - **InsuranceProject**, an automobile insurance management application using the Spring Boot, Maven and Bootstrap frameworks
+
+# ⭐ My projects
+
+- [RacoonBot](https://top.gg/bot/734426328002068481), a multifunction and fun bot using the discordjs API
 
 # 🔧 Technologies & Tools
 
