@@ -13,7 +13,9 @@ I'm a student as an IT-Specialist, Software Development **[Federal VET Diploma i
 
 # ⭐ My projects
 
-- [RacoonBot](https://top.gg/bot/734426328002068481), a multifunction and fun bot using the discordjs API
+- [The Eye](https://github.com/Heyimlulu/The-Eye) is a webpage that displays an eye looking at you :O (recreated from one of some many fake websites on [Welcome to the Game 2](https://store.steampowered.com/app/720250/Welcome_to_the_Game_II/)
+- [RacoonBot](https://top.gg/bot/734426328002068481) is a multifunction bot for fun, general, and utility commands. It is also a funny and cute racoon ;3
+- **Paanya** is a simple and fun discord bot with moderation, auto-color rank, text-to-speech, strawpoll commands and more coming soon
 
 # 🔧 Technologies & Tools
 
