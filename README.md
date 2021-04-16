@@ -8,7 +8,7 @@ I'm a student as an IT-Specialist, Software Development **[Federal VET Diploma i
 
 # 🔭 I’m currently working on 
 
-- **Iro-Chan**, a multifunctional discord bot made using the DiscordJS API and Discord Akairo Framework
+- **Paanya**, a multifunctional discord bot made using the DiscordJS API and Discord Akairo Framework
 - **Auto Insurance Project**, an automobile insurance management application using the Spring Boot, Maven and Bootstrap frameworks
 
 # ⭐ My projects
