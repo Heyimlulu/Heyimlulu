@@ -10,7 +10,7 @@ I'm a student as an IT-Specialist, Software Development **[Federal VET Diploma i
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Heyimlulu&theme=midnight-purple&show_icons=true&hide_border=0&bg_color=DEG,59C173,a17fe0" />
 </a>
 <a href="https://github.com/Heyimlulu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heyimlulu&layout=compact&hide_border=0&title_color=994FF7" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heyimlulu&layout=compact&hide_border=0&title_color=994FF7&langs_count=5" />
 </a>
 
 # 🔭 I’m currently working on 
