@@ -6,6 +6,13 @@
 
 I'm a student as an IT-Specialist, Software Development **[Federal VET Diploma in Information Technology]**
 
+<a href="https://github.com/Heyimlulu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Heyimlulu&theme=midnight-purple&show_icons=true&hide_border=0&bg_color=DEG,59C173,a17fe0" />
+</a>
+<a href="https://github.com/Heyimlulu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heyimlulu&layout=compact&hide_border=0&title_color=994FF7" />
+</a>
+
 # 🔭 I’m currently working on 
 
 - **Paanya**, a multifunctional discord bot made using the DiscordJS API and Discord Akairo Framework
@@ -13,9 +20,9 @@ I'm a student as an IT-Specialist, Software Development **[Federal VET Diploma i
 
 # ⭐ My projects
 
-- [The Eye](https://github.com/Heyimlulu/The-Eye) is a webpage that displays an eye looking at you :O (recreated from one of some many fake websites on [Welcome to the Game 2](https://store.steampowered.com/app/720250/Welcome_to_the_Game_II/)
+- [The Eye](https://github.com/Heyimlulu/The-Eye) is a website recreated from one of some many fake websites in [Welcome to the Game 2](https://store.steampowered.com/app/720250/Welcome_to_the_Game_II/)
 - [RacoonBot](https://top.gg/bot/734426328002068481) is a multifunction bot for fun, general, and utility commands. It is also a funny and cute racoon ;3
-- **Paanya** is a simple and fun discord bot with moderation, auto-color rank, text-to-speech, strawpoll commands and more coming soon
+- [Paanya](https://top.gg/bot/829230505123119164) is a simple and fun discord bot with moderation, auto-color rank, text-to-speech, strawpoll commands and more coming soon
 
 # 🔧 Technologies & Tools
 
