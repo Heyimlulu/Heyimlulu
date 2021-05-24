@@ -21,8 +21,9 @@ I'm a student as an IT-Specialist, Software Development **[Federal VET Diploma i
 # ⭐ My projects
 
 - [The Eye](https://github.com/Heyimlulu/The-Eye) is a website recreated from one of some many fake websites in [Welcome to the Game 2](https://store.steampowered.com/app/720250/Welcome_to_the_Game_II/)
-- [RacoonBot](https://top.gg/bot/734426328002068481) is a multifunction bot for fun, general, and utility commands. It is also a funny and cute racoon ;3
-- [Paanya](https://top.gg/bot/829230505123119164) is a simple and fun discord bot with moderation, auto-color rank, text-to-speech, strawpoll commands and more coming soon
+- [RacoonBot](https://top.gg/bot/734426328002068481) is a multipurpose bot for moderation, fun, general, and utility commands. It is also a funny and cute racoon ;3
+- [Paanya](https://paanya.moe/) is a simple and fun discord bot with moderation, auto-color rank, text-to-speech, strawpoll commands
+- [Auto Insurance Project](https://autoinsuranceproject.herokuapp.com/) is an automobile insurance management application using the Spring Boot, Maven and Bootstrap frameworks
 
 # 🔧 Technologies & Tools
 
@@ -54,3 +55,8 @@ I'm a student as an IT-Specialist, Software Development **[Federal VET Diploma i
 ![](https://img.shields.io/badge/Cloud%20Hosting-Microsoft%20Azure-69FF96?logo=Microsoft%20azure&color=blue)
 ![](https://img.shields.io/badge/Cloud%20Hosting-Amazon%20Web%20Services-69FF96?logo=amazon%20aws&color=orange)
 ![](https://img.shields.io/badge/Cloud%20Hosting-Heroku-69FF96?logo=heroku&color=purple)
+
+# 💬 Contact
+
+## Lulu 💜#0001 on discord
+<img align="center" height="200px" src="https://cdn.discordapp.com/avatars/265896171384340480/6d0b169c0d4ab5273579922039ddd52e.png?size=2048" />
