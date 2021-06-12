@@ -58,5 +58,4 @@ I'm a student as an IT-Specialist, Software Development **[Federal VET Diploma i
 
 # 💬 Contact
 
-## Lulu 💜#0001 on discord
-<img align="center" height="200px" src="https://cdn.discordapp.com/avatars/265896171384340480/6d0b169c0d4ab5273579922039ddd52e.png?size=2048" />
+### Lulu 💜#0001 on discord
