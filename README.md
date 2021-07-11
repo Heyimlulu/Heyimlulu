@@ -7,16 +7,15 @@
 I'm a student as an IT-Specialist, Software Development **[Federal VET Diploma in Information Technology]**
 
 <a href="https://github.com/Heyimlulu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Heyimlulu&theme=midnight-purple&show_icons=true&hide_border=0&bg_color=DEG,59C173,a17fe0" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Heyimlulu&theme=midnight-purple&show_icons=true&hide_border=0" />
 </a>
 <a href="https://github.com/Heyimlulu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heyimlulu&layout=compact&hide_border=0&title_color=994FF7&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heyimlulu&layout=compact&theme=midnight-purple&hide_border=0&title_color=994FF7&langs_count=5" />
 </a>
 
 # 🔭 I’m currently working on 
 
-- **Paanya**, a multifunctional discord bot made using the DiscordJS API and Discord Akairo Framework
-- **Auto Insurance Project**, an automobile insurance management application using the Spring Boot, Maven and Bootstrap frameworks
+- **Paanya**, a multipurpose discord bot made using the DiscordJS API and the Discord Akairo Framework
 
 # ⭐ My projects
 
@@ -33,12 +32,13 @@ I'm a student as an IT-Specialist, Software Development **[Federal VET Diploma i
 ![](https://img.shields.io/badge/Code-CSS-69FF96?logo=css3&color=blue)
 ![](https://img.shields.io/badge/Code-Javascript-69FF96?logo=javascript&color=yellow)
 ![](https://img.shields.io/badge/Code-PHP-69FF96?logo=php&color=blueviolet)
-![](https://img.shields.io/badge/Code-CSharp-69FF96?logo=c%20sharp&color=blueviolet)
+![](https://img.shields.io/badge/Code-C%23-69FF96?logo=c%20sharp&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Java-69FF96?logo=java&color=orange)
 
 ## Frameworks
 
 ![](https://img.shields.io/badge/Framework-ReactJS-69FF96?logo=react&color=cyan)
+![](https://img.shields.io/badge/Framework-Angular-69FF96?logo=angular&color=red)
 ![](https://img.shields.io/badge/Framework-Spring%20Boot-69FF96?logo=spring&color=green)
 ![](https://img.shields.io/badge/Framework-Bootstrap-69FF96?logo=bootstrap&color=purple)
 
@@ -55,7 +55,3 @@ I'm a student as an IT-Specialist, Software Development **[Federal VET Diploma i
 ![](https://img.shields.io/badge/Cloud%20Hosting-Microsoft%20Azure-69FF96?logo=Microsoft%20azure&color=blue)
 ![](https://img.shields.io/badge/Cloud%20Hosting-Amazon%20Web%20Services-69FF96?logo=amazon%20aws&color=orange)
 ![](https://img.shields.io/badge/Cloud%20Hosting-Heroku-69FF96?logo=heroku&color=purple)
-
-# 💬 Contact
-
-### Lulu 💜#0001 on discord
