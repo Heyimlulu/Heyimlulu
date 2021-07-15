@@ -1,17 +1,21 @@
 # Hey, I'm Lucas 👋
 
-<img height="400px" src="https://repository-images.githubusercontent.com/302617083/fb5cbc00-0a67-11eb-9c37-3f829f3f7382">
+<p align="center" style="max-width:100%;">
+  <img height="400px" src="https://repository-images.githubusercontent.com/302617083/fb5cbc00-0a67-11eb-9c37-3f829f3f7382">
+</p>
 
 # ⚡ About me
 
 I'm a student as an IT-Specialist, Software Development **[Federal VET Diploma in Information Technology]**
 
-<a href="https://github.com/Heyimlulu">
+<div align="center" style="max-width=100%;">
+  <a href="https://github.com/Heyimlulu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Heyimlulu&theme=midnight-purple&show_icons=true&hide_border=0" />
 </a>
 <a href="https://github.com/Heyimlulu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heyimlulu&layout=compact&theme=midnight-purple&hide_border=0&title_color=994FF7&langs_count=5" />
 </a>
+</div>
 
 # 🔭 I’m currently working on 
 
