@@ -6,7 +6,7 @@
 
 # ⚡ About me
 
-I'm a student as an IT-Specialist, Software Development **[Federal VET Diploma in Information Technology]**
+I'm a student as an IT-Specialist in Software Development **[Federal VET Diploma in Information Technology]**
 
 <div align="center" style="max-width=100%;">
   <a href="https://github.com/Heyimlulu">
