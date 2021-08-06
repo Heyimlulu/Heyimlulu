@@ -19,7 +19,12 @@ I'm a student as an IT-Specialist in Software Development **[Federal VET Diploma
 
 # 🔭 I’m currently working on 
 
-- **Paanya**, a multipurpose discord bot made using the DiscordJS API and the Discord Akairo Framework
+- Nothing :/
+
+# ℹ Support
+
+- **Paanya**
+- **RacoonBot**
 
 # ⭐ My projects
 
