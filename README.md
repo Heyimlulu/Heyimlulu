@@ -32,13 +32,25 @@ I'm a student in computer science and currently working as an IT-Specialist in S
   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
 </span>
 <span>
+  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" />
+</span>
+<span>
   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
+</span>
+<span>
+  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
 </span>
 <span>
   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/php.svg" />
 </span>
 <span>
   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
+</span>
+<span>
+  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" />
+</span>
+<span>
+  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
 </span>
 <span>
   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
@@ -63,6 +75,9 @@ I'm a student in computer science and currently working as an IT-Specialist in S
 </span>
 <span>
   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
+</span>
+<span>
+  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" />
 </span>
 <span>
   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" />
