@@ -1,7 +1,7 @@
 # Hey, I'm Lucas 👋
 
-<p align="center" style="max-width:100%;">
-  <img height="400px" src="https://repository-images.githubusercontent.com/302617083/fb5cbc00-0a67-11eb-9c37-3f829f3f7382">
+<p align="center" style="max-width:100%">
+  <img src="https://repository-images.githubusercontent.com/302617083/fb5cbc00-0a67-11eb-9c37-3f829f3f7382">
 </p>
 
 # ⚡ About me
