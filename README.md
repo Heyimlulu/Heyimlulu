@@ -88,3 +88,46 @@ I'm a student in computer science and currently working as an IT-Specialist in S
 <span>
   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/netlify.svg" />
 </span>
+
+# 🔭 I’m currently working on
+
+- [RacoonBot](https://top.gg/bot/734426328002068481) - `A funny and cute Discord Bot`
+- My website - Built with VueJS and TailwindCSS
+
+# 🌱 I’m currently learning
+
+<details>
+<summary>Front-End</summary>
+  
+- ReactJS
+- VueJS
+- Angular
+  
+</details>
+
+<details>
+<summary>Back-End</summary>
+  
+- Java
+- Spring Boot
+- Maven
+- MySQL (Database Design)
+  
+</details>
+
+# 💬 Ask me about
+
+- Discord Bots
+- RacoonBot
+- Paanya
+- My projects
+
+# ⚡ Fun facts
+
+- I love raccoons 🦝
+
+# 📫 How to reach me
+
+Discord : [@Slimey#0667](https://discord.com/users/265896171384340480)
+
+![Discord Server](https://discordapp.com/api/guilds/842856705029046282/widget.png?style=banner4)
