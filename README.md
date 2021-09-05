@@ -15,10 +15,10 @@ I'm a student in computer science and currently working as an IT-Specialist in S
   <a href="https://github.com/Heyimlulu">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Heyimlulu&theme=dark&show_icons=true&hide_border=0&title_color=3CCF91" />
   </a>
-  <a href="https://github.com/Heyimlulu">
+  <a href="https://github.com/Heyimlulu/Discord-About-Me-Customisation">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyimlulu&repo=Discord-About-Me-Customisation&theme=dark&hide_border=0&title_color=3CCF91" />
   </a>
-    <a href="https://github.com/Heyimlulu">
+    <a href="https://github.com/Heyimlulu/The-Eye">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyimlulu&repo=The-Eye&theme=dark&hide_border=0&title_color=3CCF91" />
   </a>
 </div>
