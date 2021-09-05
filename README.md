@@ -132,6 +132,6 @@
 
 # 📫 How to reach me
 
-Discord : [Slimey#0667](https://discord.com/users/265896171384340480)
+Discord - [Slimey#0667](https://discord.com/users/265896171384340480)
 
-![Discord Server](https://discordapp.com/api/guilds/842856705029046282/widget.png?style=banner4)
+[![Discord Server](https://discordapp.com/api/guilds/842856705029046282/widget.png?style=banner4)](https://discord.gg/G43WEkkZ7w)
