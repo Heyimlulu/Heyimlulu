@@ -6,7 +6,11 @@
 
 # ⚡ About me
 
-I'm a student in computer science and currently working as an IT-Specialist in Software Development **[Federal VET Diploma in Information Technology]**
+<h3 align="center">
+  <b>Gamer • Passionate Developer • Student • Curious • Friendly • Shy</b>
+</h3>
+
+# 📊 GitHub Stats
 
 <div align="center" style="max-width=100%;">
     <a href="https://github.com/Heyimlulu">
