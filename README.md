@@ -128,6 +128,6 @@ I'm a student in computer science and currently working as an IT-Specialist in S
 
 # 📫 How to reach me
 
-Discord : [@Slimey#0667](https://discord.com/users/265896171384340480)
+Discord : [Slimey#0667](https://discord.com/users/265896171384340480)
 
 ![Discord Server](https://discordapp.com/api/guilds/842856705029046282/widget.png?style=banner4)
