@@ -7,7 +7,7 @@
 # ⚡ About me
 
 <h3 align="center">
-  <b>Gamer • Passionate Developer • Student • Curious • Friendly • Shy</b>
+  <b>Gamer • Hobbyist Developer • Student • Shy</b>
 </h3>
 
 # 📊 GitHub Stats
