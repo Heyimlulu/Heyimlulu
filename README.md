@@ -104,8 +104,9 @@
 <summary>Front-End</summary>
   
 - ReactJS
-- VueJS
+- VueJS / Nuxt.js
 - Angular
+  - Typescript
   
 </details>
 
