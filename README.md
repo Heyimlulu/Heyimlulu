@@ -128,6 +128,10 @@
 - Paanya
 - My projects
 
+# 😀 Pronouns
+
+- He/Him
+
 # ⚡ Fun facts
 
 - I love raccoons 🦝
