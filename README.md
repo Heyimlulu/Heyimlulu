@@ -97,6 +97,7 @@
 
 - [RacoonBot](https://top.gg/bot/734426328002068481) - `A funny and cute Discord Bot`
 - My website - Built with VueJS and TailwindCSS
+- [Discord About Me Customisation](https://github.com/Heyimlulu/Discord-About-Me-Customisation)
 
 # 🌱 I’m currently learning
 
