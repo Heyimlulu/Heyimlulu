@@ -118,6 +118,8 @@
 - Spring Boot
 - Maven
 - MySQL (Database Design)
+- PHP
+- REST APIs
   
 </details>
 
