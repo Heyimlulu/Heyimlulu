@@ -14,7 +14,7 @@
 
 <div align="center" style="max-width=100%;">
     <a href="https://github.com/Heyimlulu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heyimlulu&theme=dark&hide_border=0&title_color=3CCF91&langs_count=5&hide=Handlebars,PHP,PowerShell" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heyimlulu&theme=dark&hide_border=0&title_color=3CCF91&langs_count=5&hide=Handlebars,PHP,PowerShell,C%23" />
   </a>
   <a href="https://github.com/Heyimlulu">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Heyimlulu&theme=dark&show_icons=true&hide_border=0&title_color=3CCF91" />
