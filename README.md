@@ -45,6 +45,12 @@
   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
 </span>
 <span>
+  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" />
+</span>
+<span>
+  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" />
+</span>
+<span>
   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/php.svg" />
 </span>
 <span>
