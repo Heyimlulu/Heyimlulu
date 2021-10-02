@@ -102,8 +102,9 @@
 # 🔭 I’m currently working on
 
 - [RacoonBot](https://top.gg/bot/734426328002068481) - `A funny and cute Discord Bot`
-- My website - Built with VueJS and TailwindCSS
-- [Discord About Me Customisation](https://github.com/Heyimlulu/Discord-About-Me-Customisation)
+- [Paanya](https://top.gg/bot/829230505123119164) - `A multipurpose fun bot for discord. Moderation, Image manipulation, Minigames and Utilities`
+
+*Mostly trying to fix some big compatibilities issues*
 
 # 🌱 I’m currently learning
 
