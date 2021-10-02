@@ -149,4 +149,11 @@
 
 Discord - [Slimey#0667](https://discord.com/users/265896171384340480)
 
-[![Discord Server](https://discordapp.com/api/guilds/842856705029046282/widget.png?style=banner4)](https://discord.gg/G43WEkkZ7w)
+# Support servers
+
+<a href="https://discord.gg/G43WEkkZ7w" target="_blank">
+  <img src="https://discordapp.com/api/guilds/842856705029046282/widget.png?style=banner2" alt />
+</a>
+<a href="https://discord.gg/RTNZqPbp7W" target="_blank">
+  <img src="https://discord.com/api/guilds/893819596996481054/widget.png?style=banner2" alt />
+</a>
