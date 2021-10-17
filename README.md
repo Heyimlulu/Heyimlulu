@@ -101,10 +101,9 @@
 
 # 🔭 I’m currently working on
 
+- [Discord Lookup API](http://api.paanya.moe/) - `Discord Lookup is a REST API that lookup a Discord User or Bot ID.`
 - [RacoonBot](https://top.gg/bot/734426328002068481) - `A funny and cute Discord Bot`
 - [Paanya](https://top.gg/bot/829230505123119164) - `A multipurpose fun bot for discord. Moderation, Image manipulation, Minigames and Utilities`
-
-*Mostly trying to fix some big compatibilities issues*
 
 # 🌱 I’m currently learning
 
