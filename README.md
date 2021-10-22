@@ -113,7 +113,8 @@
 - ReactJS
 - VueJS / Nuxt.js
 - Angular
-  - Typescript
+- Typescript
+- SASS (SCSS)
   
 </details>
 
