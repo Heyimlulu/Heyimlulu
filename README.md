@@ -25,43 +25,43 @@
 
 <div align="center">
 <span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
+  <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/html.svg" />
 </span>
 <span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
+  <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/css.svg" />
 </span>
 <span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" />
+  <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/tailwindcss.svg" />
 </span>
 <span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
+  <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/javascript.svg" />
 </span>
 <span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
+  <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/typescript.svg" />
 </span>
 <span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
+  <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/nodejs.svg" />
 </span>
 <span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
+  <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/java.svg" />
 </span>
 <span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" />
+  <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/mysql.svg" />
 </span>
 <span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
+  <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/postgresql.svg" />
 </span>
 <span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
+  <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/react.svg" />
 </span>
 <span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" />
+  <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/angular.svg" />
 </span>
 <span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" />
+  <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/vue-js.svg" />
 </span>
 <span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" />
+  <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/spring.svg" />
 </span>
 </div>
 
