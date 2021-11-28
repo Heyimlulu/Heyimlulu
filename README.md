@@ -1,34 +1,29 @@
-# Hey, I'm Lucas 👋
+## Hey, I'm Lucas 👋
 
-<p align="center" style="max-width:100%">
-  <img src="https://repository-images.githubusercontent.com/302617083/fb5cbc00-0a67-11eb-9c37-3f829f3f7382">
+<p align="center">
+  <img width="800" src="https://repository-images.githubusercontent.com/302617083/fb5cbc00-0a67-11eb-9c37-3f829f3f7382">
 </p>
 
-# ⚡ About me
+### ⚡ ● About me
 
 <h3 align="center">
   <b>Gamer • Hobbyist Developer • Student</b>
 </h3>
 
-# 📊 GitHub Stats
+### 📊 ● GitHub Stats
 
-<div align="center" style="max-width=100%;">
-    <a href="https://github.com/Heyimlulu">
+<div align="center">
+  <a href="https://github.com/Heyimlulu">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heyimlulu&theme=dark&hide_border=0&title_color=3CCF91&langs_count=5&hide=Handlebars,PHP,PowerShell,C%23,Batchfile" />
   </a>
   <a href="https://github.com/Heyimlulu">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Heyimlulu&theme=dark&show_icons=true&hide_border=0&title_color=3CCF91" />
   </a>
-  <a href="https://github.com/Heyimlulu/Discord-About-Me-Customisation">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyimlulu&repo=Discord-About-Me-Customisation&theme=dark&hide_border=0&title_color=3CCF91" />
-  </a>
-    <a href="https://github.com/Heyimlulu/The-Eye">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyimlulu&repo=The-Eye&theme=dark&hide_border=0&title_color=3CCF91" />
-  </a>
 </div>
 
-# 🔧 Technologies & Tools
+### 🔧 ● Technologies & Tools
 
+<div align="center">
 <span>
   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
 </span>
@@ -36,7 +31,7 @@
   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
 </span>
 <span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" />
+  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" />
 </span>
 <span>
   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
@@ -45,13 +40,7 @@
   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
 </span>
 <span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" />
-</span>
-<span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" />
-</span>
-<span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/php.svg" />
+  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
 </span>
 <span>
   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
@@ -74,38 +63,15 @@
 <span>
   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" />
 </span>
-<span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />
-</span>
-<span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" />
-</span>
-<span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/datagrip-icon.svg" />
-</span>
-<span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
-</span>
-<span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" />
-</span>
-<span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" />
-</span>
-<span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/heroku-1.svg" />
-</span>
-<span>
-  <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/netlify.svg" />
-</span>
+</div>
 
-# 🔭 I’m currently working on
+### 🔭 ● I’m currently working on
 
 - [Discord Lookup API](http://api.paanya.moe/) - `Discord Lookup is a REST API that lookup a Discord User or Bot ID.`
 - [RacoonBot](https://top.gg/bot/734426328002068481) - `A funny and cute Discord Bot`
 - [Paanya](https://top.gg/bot/829230505123119164) - `A multipurpose fun bot for discord. Moderation, Image manipulation, Minigames and Utilities`
 
-# 🌱 I’m currently learning
+### 🌱 ● I’m currently learning
 
 <details>
 <summary>Front-End</summary>
@@ -124,27 +90,26 @@
 - Java
 - Spring Boot
 - Maven
-- MySQL (Database Design)
-- PHP
+- MySQL
 - REST APIs
   
 </details>
 
-# 💬 Ask me about
+### 💬 ● Ask me about
 
 - Discord Bots
 - RacoonBot
 - Paanya
 - My projects
 
-# 😀 Pronouns
+### 😀 ● Pronouns
 
 - He/Him
 
-# ⚡ Fun facts
+### ⚡ ● Fun facts
 
 - I love raccoons 🦝
 
-# 📫 How to reach me
+### 📫 ● How to reach me
 
 Discord - [Slimey#0667](https://discord.com/users/265896171384340480)
