@@ -4,13 +4,13 @@
   <img width="800" src="https://repository-images.githubusercontent.com/302617083/fb5cbc00-0a67-11eb-9c37-3f829f3f7382">
 </p>
 
-### ⚡ ● About me
+### ⚡ • About me
 
 <h3 align="center">
   <b>Gamer • Hobbyist Developer • Student</b>
 </h3>
 
-### 📊 ● GitHub Stats
+### 📊 • GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Heyimlulu">
@@ -21,7 +21,7 @@
   </a>
 </div>
 
-### 🔧 ● Technologies & Tools
+### 🔧 • Technologies & Tools
 
 <div align="center">
 <span>
@@ -65,13 +65,13 @@
 </span>
 </div>
 
-### 🔭 ● I’m currently working on
+### 🔭 • I’m currently working on
 
 - [Discord Lookup API](https://paanya.moe/) - `Discord Lookup is a REST API that lookup a Discord User or Bot ID.`
 - [RacoonBot](https://top.gg/bot/734426328002068481) - `A funny and cute Discord Bot`
 - [Paanya](https://top.gg/bot/829230505123119164) - `A multipurpose fun bot for discord. Moderation, Image manipulation, Minigames and Utilities`
 
-### 🌱 ● I’m currently learning
+### 🌱 • I’m currently learning
 
 <details>
 <summary>Front-End</summary>
@@ -95,21 +95,21 @@
   
 </details>
 
-### 💬 ● Ask me about
+### 💬 • Ask me about
 
 - Discord Bots
 - RacoonBot
 - Paanya
 - My projects
 
-### 😀 ● Pronouns
+### 😀 • Pronouns
 
 - He/Him
 
-### ⚡ ● Fun facts
+### ⚡ • Fun facts
 
 - I love raccoons 🦝
 
-### 📫 ● How to reach me
+### 📫 • How to reach me
 
 Discord - [Slimey#0667](https://discord.com/users/265896171384340480)
