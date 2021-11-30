@@ -112,4 +112,4 @@
 
 ### 📫 • How to reach me
 
-Discord - [Slimey#0667](https://discord.com/users/265896171384340480)
+Discord - [Lulu 🍉#0001](https://discord.com/users/265896171384340480)
