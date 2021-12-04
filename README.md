@@ -67,9 +67,7 @@
 
 ### 🔭 • I’m currently working on
 
-- [Discord Lookup API](https://paanya.moe/) - `Discord Lookup is a REST API that lookup a Discord User or Bot ID.`
-- [RacoonBot](https://top.gg/bot/734426328002068481) - `A funny and cute Discord Bot`
-- [Paanya](https://top.gg/bot/829230505123119164) - `A multipurpose fun bot for discord. Moderation, Image manipulation, Minigames and Utilities`
+- [Quoifeur API](/) - `Quoifeur is an API where you can get some silly french prefix/suffix jokes.`
 
 ### 🌱 • I’m currently learning
 
