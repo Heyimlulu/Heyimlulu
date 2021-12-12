@@ -67,7 +67,7 @@
 
 ### 🔭 • I’m currently working on
 
-- [Quoifeur API](/) - `Quoifeur is an API where you can get some silly french prefix/suffix jokes.`
+- Some small projects
 
 ### 🌱 • I’m currently learning
 
