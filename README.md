@@ -110,4 +110,4 @@
 
 ### 📫 • How to reach me
 
-Discord - [Lulu 🍉#0001](https://discord.com/users/265896171384340480)
+Discord - [Lulu](https://discord.com/users/265896171384340480)
