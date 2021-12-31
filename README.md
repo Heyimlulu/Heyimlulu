@@ -74,9 +74,7 @@
 <details>
 <summary>Front-End</summary>
   
-- ReactJS
-- VueJS / Nuxt.js
-- Angular
+- ReactJS / Next.JS
 - Typescript
 - SASS (SCSS)
   
@@ -87,9 +85,6 @@
   
 - Java
 - Spring Boot
-- Maven
-- MySQL
-- REST APIs
   
 </details>
 
