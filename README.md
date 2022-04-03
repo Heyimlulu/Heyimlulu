@@ -7,7 +7,7 @@
 ### ⚡ • About me
 
 <h3 align="center">
-  <b>Gamer • Hobbyist Developer • Student</b>
+  <b>Gamer • Self-taught • Hobbyist • Web Developer • Student</b>
 </h3>
 
 ### 📊 • GitHub Stats
@@ -71,28 +71,17 @@
 
 ### 🌱 • I’m currently learning
 
-<details>
-<summary>Front-End</summary>
-  
 - ReactJS / Next.JS
+- Vue.JS
 - Typescript
 - SASS (SCSS)
-  
-</details>
-
-<details>
-<summary>Back-End</summary>
-  
-- Java
-- Spring Boot
-  
-</details>
+- PHP
 
 ### 💬 • Ask me about
 
 - Discord Bots
 - RacoonBot
-- Paanya
+- Web development
 - My projects
 
 ### 😀 • Pronouns
@@ -101,8 +90,8 @@
 
 ### ⚡ • Fun facts
 
-- I love raccoons 🦝
+- I love red pandas and raccoons 🦝
 
 ### 📫 • How to reach me
 
-Discord - [Lulu](https://discord.com/users/265896171384340480)
+Discord - [Lulu 🍉](https://discord.com/users/265896171384340480)
