@@ -43,9 +43,6 @@
   <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/nodejs.svg" />
 </span>
 <span>
-  <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/java.svg" />
-</span>
-<span>
   <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/mysql.svg" />
 </span>
 <span>
@@ -55,13 +52,7 @@
   <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/react.svg" />
 </span>
 <span>
-  <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/angular.svg" />
-</span>
-<span>
   <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/vue-js.svg" />
-</span>
-<span>
-  <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/spring.svg" />
 </span>
 </div>
 
@@ -69,29 +60,26 @@
 
 - Some small projects
 
+### ✨ • Portfolio
+
+- [Anya-Chan](https://top.gg/bot/735858911093063773) is a Spy X Family themed Discord bot with fully Slash commands Support
+- [Discord Lookup](https://discord.name/) is a Front-End & Back-End project to search for a user / bot ID
+  - [REST API](https://api.discord.name/) for Discord Lookup 
+- [Comics / Mangas Library](https://comics-library.lulu.cloud/) - a collection of all my mangas at home (WIP)
+- [Personal Website and Portfolio - V2](https://v2.lucas.moe/)
+
 ### 🌱 • I’m currently learning
 
 - ReactJS / Next.JS
 - Vue.JS
 - Typescript
-- SASS (SCSS)
-- PHP
-
-### 💬 • Ask me about
-
-- Discord Bots
-- RacoonBot
-- Web development
-- My projects
-
-### 😀 • Pronouns
-
-- He/Him
 
 ### ⚡ • Fun facts
 
 - I love red pandas and raccoons 🦝
 
-### 📫 • How to reach me
+### 💬 • How to reach me
 
-Discord - [Lulu 🍉](https://discord.com/users/265896171384340480)
+Feel free to add me if you have any question or just wanna talk c:
+
+Discord - Lυlυ#1337
