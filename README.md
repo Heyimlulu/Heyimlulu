@@ -65,8 +65,10 @@
 - [Anya-Chan](https://anyachan.lulu.cloud/) is a Spy X Family themed Discord bot with fully Slash commands Support
 - [Discord Lookup](https://discord.name/) is a Front-End & Back-End project to search for a user / bot ID
   - [REST API](https://api.discord.name/) for Discord Lookup 
-- [Comics / Mangas Library](https://comics-library.lulu.cloud/) - a collection of all my mangas at home (WIP)
+- [Comics / Mangas Library](https://comics-library.lulu.cloud/) - A collection of all my mangas at home (WIP)
 - [Personal Website and Portfolio - V2](https://v2.lucas.moe/)
+- [Waifu](http://waifu.botw.ch/) - A simple webpage made with HTML & JQuery to get a random Waifu from waifu.pics
+- [Timesheet APP](http://timesheetapp.botw.ch/) is an app that helps you track your time at work (Made with HTML, PHP and TailwindCSS)
 
 ### 🌱 • I’m currently learning
 
