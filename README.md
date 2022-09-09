@@ -67,8 +67,8 @@
   - [REST API](https://api.discord.name/) for Discord Lookup 
 - [Comics / Mangas Library](https://comics-library.lulu.cloud/) - A collection of all my mangas at home (WIP)
 - [Personal Website and Portfolio - V2](https://v2.lucas.moe/)
-- [Waifu](http://waifu.botw.ch/) - A simple webpage made with HTML & JQuery to get a random Waifu from waifu.pics
-- [Timesheet APP](http://timesheetapp.botw.ch/) is an app that helps you track your time at work (Made with HTML, PHP and TailwindCSS)
+- [Waifu](https://waifu.lulu.cloud/) - A simple webpage made with HTML & JQuery to get a random Waifu from waifu.pics
+- [Timesheet](https://timesheet.lulu.cloud/) is an app that helps you track your time at work (Made with HTML, PHP and TailwindCSS)
 
 ### 🌱 • I’m currently learning
 
