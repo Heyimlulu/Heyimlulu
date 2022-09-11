@@ -62,7 +62,7 @@
 
 ### ✨ • Portfolio
 
-- [Anya-Chan](https://anyachan.lulu.cloud/) is a Spy X Family themed Discord bot with fully Slash commands Support
+- [Anya-Chan](https://anyachan.xyz/) is a Spy X Family themed Discord bot with fully Slash commands Support
 - [Discord Lookup](https://discord.name/) is a Front-End & Back-End project to search for a user / bot ID
   - [REST API](https://api.discord.name/) for Discord Lookup 
 - [Comics / Mangas Library](https://comics-library.lulu.cloud/) - A collection of all my mangas at home (WIP)
