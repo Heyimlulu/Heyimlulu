@@ -10,17 +10,6 @@
   <b>Gamer • Self-taught • Hobbyist • Web Developer • Student</b>
 </h3>
 
-### 📊 • GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Heyimlulu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Top languages&username=Heyimlulu&theme=dark&hide_border=0&title_color=3CCF91&langs_count=5&hide=Handlebars,PHP,PowerShell,C%23,Batchfile" />
-  </a>
-  <a href="https://github.com/Heyimlulu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?custom_title=Github%20stats&username=Heyimlulu&theme=dark&show_icons=true&hide_border=0&title_color=3CCF91" />
-  </a>
-</div>
-
 ### 🔧 • Technologies & Tools
 
 <div align="center">
