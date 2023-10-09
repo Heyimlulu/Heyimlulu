@@ -53,19 +53,18 @@
 
 - [Anya-Chan](https://anyachan.xyz/) is a Spy X Family themed Discord bot with fully Slash commands Support
 - [Discord Lookup](https://discord.name/) is a Front-End & Back-End project to search for a user / bot ID
-  - [REST API](https://api.discord.name/) for Discord Lookup 
-- [Comics / Mangas Library](https://comics-library.lulu.cloud/) - A collection of all my mangas at home `(WIP)`
-- [Personal Website and Portfolio - V2](https://v2.lucas.moe/)
-- [Waifu](https://waifu.lulu.cloud/) - A simple webpage made with HTML & JQuery to get a random Waifu from waifu.pics
-- [Timesheet](https://timesheet.lulu.cloud/) is an app that helps you track your time at work (Made with HTML, PHP and TailwindCSS)
-- [Semainier](https://semainier.herokuapp.com/) is a weekly planner application that allows students work to be referenced by day of the week `(School project)`
-- [Auto Insurance Management](https://autoinsuranceproject.herokuapp.com/) - An automobile insurance management application using the Spring Boot, Maven and Bootstrap frameworks `(Broken)`
+  - [REST API](#) for Discord Lookup 
+- [Comics / Mangas Library](https://lulu.cloud/) - A collection of all my mangas at home `(WIP)`
+- [Personal Website and Portfolio - V2](#)
+- [Waifu](#) - A simple webpage made with HTML & JQuery to get a random Waifu from waifu.pics
+- [Timesheet](#) is an app that helps you track your time at work (Made with HTML, PHP and TailwindCSS)
+- [Semainier](#) is a weekly planner application that allows students work to be referenced by day of the week `(School project)`
+- [Auto Insurance Management](#) - An automobile insurance management application using the Spring Boot, Maven and Bootstrap frameworks
 
 ### 🌱 • I’m currently learning
 
-- ReactJS / Next.JS
-- Vue.JS
-- Typescript
+- Web development
+- GraphQL
 
 ### ⚡ • Fun facts
 
@@ -75,4 +74,4 @@
 
 Feel free to add me if you have any question or just wanna talk c:
 
-Discord - Lυlυ#1337
+Discord ~ Sharkycute
