@@ -4,26 +4,11 @@
   <img width="800" src="https://repository-images.githubusercontent.com/302617083/fb5cbc00-0a67-11eb-9c37-3f829f3f7382">
 </p>
 
-### ⚡ • About me
-
-<h3 align="center">
-  <b>Gamer • Self-taught • Hobbyist • Web Developer • Student</b>
-</h3>
-
-### 🔧 • Technologies & Tools
+### 🔧 • Technologies
 
 <div align="center">
 <span>
-  <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/html.svg" />
-</span>
-<span>
-  <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/css.svg" />
-</span>
-<span>
   <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/tailwindcss.svg" />
-</span>
-<span>
-  <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/javascript.svg" />
 </span>
 <span>
   <img width="50" height="50" src="https://github.com/Heyimlulu/Heyimlulu/blob/main/assets/typescript.svg" />
@@ -45,33 +30,17 @@
 </span>
 </div>
 
-### 🔭 • I’m currently working on
-
-- Some small projects
-
 ### ✨ • Portfolio
 
-- [Anya-Chan](https://anyachan.xyz/) is a Spy X Family themed Discord bot with fully Slash commands Support
-- [Discord Lookup](https://discord.name/) is a Front-End & Back-End project to search for a user / bot ID
-  - [REST API](#) for Discord Lookup 
-- [Comics / Mangas Library](https://lulu.cloud/) - A collection of all my mangas at home `(WIP)`
-- [Personal Website and Portfolio - V2](#)
-- [Waifu](#) - A simple webpage made with HTML & JQuery to get a random Waifu from waifu.pics
-- [Timesheet](#) is an app that helps you track your time at work (Made with HTML, PHP and TailwindCSS)
-- [Semainier](#) is a weekly planner application that allows students work to be referenced by day of the week `(School project)`
-- [Auto Insurance Management](#) - An automobile insurance management application using the Spring Boot, Maven and Bootstrap frameworks
+- [Anya-Chan](https://anyachan.xyz/) - A Spy X Family themed Discord bot with fully Slash commands Support
+- [RacoonBot](https://top.gg/bot/734426328002068481) + [Paanya](https://top.gg/bot/829230505123119164) - Multipurpose fun bots for Discord featuring moderation, image manipulation, minigames and utilities
+- [Discord Lookup](https://discord.name/) - Website to let you search for a user or bot by their ID
+- [Mangadex](https://mangadex.app.deeploy.ing/) - A collection of all my mangas at home `(WIP)`
+- Eveileble - Short domain names search engine
+- Queryings - Extract Google's autosuggestions from a keyword by associating them with specific prepositions, verbs, and adverbs (POC)
 
-### 🌱 • I’m currently learning
-
-- Web development
-- GraphQL
-
-### ⚡ • Fun facts
-
-- I love red pandas and raccoons 🦝
-
-### 💬 • How to reach me
+### 💬 • Wanna get in touch ?
 
 Feel free to add me if you have any question or just wanna talk c:
 
-Discord ~ Sharkycute
+Discord ~ `shylulu.`
