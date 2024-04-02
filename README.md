@@ -17,7 +17,7 @@
 | Discord Bot | Paanya | Multipurpose fun bots for Discord featuring moderation, image manipulation, minigames and utilities | [Paanya](https://top.gg/bot/829230505123119164) |
 | Fullstack / Web | Discord Lookup | Search for a user or bot by their ID | [Discord.Name](https://discord.name/) |
 | Web | Discord with cards | Share your profile through visual cards | [Me.Discord.Name](https://me.discord.name/<your-user-id>) |
-| API | Discord Lookup REST API | Search for a Discord User or Bot ID | - |
+| API | Discord Lookup REST API | Search for a Discord User or Bot ID | [Demo](https://discord-lookup-rest-api.deeploy.ing/api-docs/) |
 | API | Discord Lookup API  | Same as above but developed in GraphQL | - |
 | Client | Discord RPC | Show off what users are doing with Discord's Rich Presence | [Discord RPC](https://github.com/Heyimlulu/Discord-Rich-Presence) |
 | Miscs | Discord About me Customisation | Beautiful Discord profile | [Discord About Me Customisation](https://github.com/Heyimlulu/Discord-About-Me-Customisation) |
